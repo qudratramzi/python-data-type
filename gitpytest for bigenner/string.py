@@ -13,3 +13,9 @@ print(b[2:9])
 y= (2,3,4)
 print(y)
 print(y[:-2])
+x=4
+y=6
+print(x+y)
+
+
+
