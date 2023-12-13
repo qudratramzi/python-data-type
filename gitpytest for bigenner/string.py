@@ -10,3 +10,5 @@ b= '   I REALLY DO NOT KNOW WHAT DO YOU MEAN'
 #print(b.strip())
 print(b.split())
 print(b[2:9])
+y= (2,3,4)
+print(y)
